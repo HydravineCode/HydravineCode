@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HydravineCode
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning basics
